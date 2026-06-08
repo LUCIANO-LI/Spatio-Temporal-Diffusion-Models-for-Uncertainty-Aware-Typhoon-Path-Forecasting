@@ -3,6 +3,7 @@
 Final Year Project, University of Macau  
 Supervisor: Prof. Leong Hou U  
 Students: Luciano Li, Ka Wai Cheong
+Best Final Year Projects: https://www.cis.um.edu.mo/bestfyp.html
 
 ## Overview
 
